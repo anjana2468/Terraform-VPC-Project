@@ -80,6 +80,8 @@ terraform apply
 After deployment, Terraform will output a DNS name. Visit it in the browser to see the live EC2 metadata card.
 
 ![Screenshot 2025-04-12 113708](https://github.com/user-attachments/assets/097ffb31-7c4a-40c6-b294-bb250db53b37)
+
+
 ![Screenshot 2025-04-12 113722](https://github.com/user-attachments/assets/60f6a07c-aedb-4cf1-9102-89934dc43903)
 
 
