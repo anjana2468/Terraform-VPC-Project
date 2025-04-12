@@ -49,7 +49,7 @@ You create an **internet-facing ALB** with:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Terraform-VPC-Project/aws-ec2-alb-demo.git
+git clone https://github.com/anjana2468/Terraform-VPC-Project.git
 cd Terraform-VPC-Project
 ```
 
