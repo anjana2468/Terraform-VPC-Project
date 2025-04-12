@@ -75,6 +75,8 @@ terraform apply
 ```
 
 5. **Access the ALB DNS**
+
+
 After deployment, Terraform will output a DNS name. Visit it in the browser to see the live EC2 metadata card.
 
 ![Screenshot 2025-04-12 113708](https://github.com/user-attachments/assets/097ffb31-7c4a-40c6-b294-bb250db53b37)
