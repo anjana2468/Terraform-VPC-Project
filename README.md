@@ -1,3 +1,6 @@
+
+![Screenshot 2025-04-10 161611](https://github.com/user-attachments/assets/4fedd8e5-0e46-4b86-88a8-f623210b2013)
+
 ## 📘 Project Overview
 
 This project **automates the deployment of a scalable web environment on AWS** using **Terraform**. It provisions:
