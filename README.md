@@ -49,8 +49,8 @@ You create an **internet-facing ALB** with:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-repo/aws-ec2-alb-demo.git
-cd aws-ec2-alb-demo
+git clone https://github.com/Terraform-VPC-Project/aws-ec2-alb-demo.git
+cd Terraform-VPC-Project
 ```
 
 2. **Update variables**
