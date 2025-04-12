@@ -92,6 +92,14 @@ After deployment, Terraform will output a DNS name. Visit it in the browser to s
 - **Automation**: Full environment setup with one `terraform apply`.
 - **Dynamic Content**: Every EC2 displays real-time instance metadata.
 
----
+How to Contribute Contributions are welcome! If you'd like to improve this project or add new features, feel free to fork the repository and submit a pull request.
+
+  1.Fork the repository.
+
+  2.Create a new branch with your feature/bug fix.
+
+  3.Push the branch and open a pull request.
+
+License This project is open-source and available under the MIT License.
 
 
